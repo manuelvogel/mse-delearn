@@ -1,2 +1,5 @@
 # ignore jupyter checkpoints
 .ipynb_checkpoints
+
+# ignore data files
+*/data
